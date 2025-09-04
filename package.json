@@ -6,12 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm run build:prod",
-    "start": "serve -s dist -l $PORT",
+    "start": "serve -s dist -l $PORT"
   },
   "author": "Ezeh Uche",
   "license": "ISC",
   "engines": {
-    "node": "18.x",
+    "node": "18.x"
   },
   "overrides": {
     "faker": "npm:@faker-js/faker@^8.4.1"
