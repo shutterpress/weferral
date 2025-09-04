@@ -13,6 +13,9 @@
   },
   "author": "Ezeh Uche",
   "license": "ISC",
+  "overrides": {
+    "faker": "npm:@faker-js/faker@^8.4.1"
+  },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
